@@ -3,5 +3,6 @@
 " Author: Radu Helstern
 " Date: 2019-06-08
 " URL: https://github.com/helstern/vim-yaml
-setlocal autoindent sw=2 ts=2 expandtab
+
+ setlocal expandtab shiftwidth=2 softtabstop=2 tabstop=2
 " vim:set sw=2:
